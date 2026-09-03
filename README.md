@@ -20,9 +20,9 @@ I design Software/AI systems that need to scale and hold up in production.
 
 This portfolio applies the rigor to ML/DS work: moving beyond notebooks into robust pipelines, clean architecture, and reliable deployments.
 
-| Project | Domain | Type | Tech Stack | Description |
+| Project | Domain | Focus | Tech Stack | Description |
 |---|---|---|---|---|
-| [Surface Defects Classification](https://github.com/raxitsoni-ai/dl-tl-surface-defects-classification) | Manufacturing & Quality Assurance | DL - Transfer Learning | TensorFlow, Keras, NumPy, matplotlib, Scikit-Learn | Automating steel surface inspection using transfer learning to classify manufacturing defects across six categories with high reliability.. |
+| [Surface Defects Classification](https://github.com/raxitsoni-ai/dl-tl-surface-defects-classification) | Manufacturing & Quality Assurance | DL - Transfer Learning | TensorFlow, Keras, NumPy, matplotlib, Scikit-Learn | Automating steel surface inspection using transfer learning to classify manufacturing defects across six categories with high reliability. |
 | [Recipes Key Entities Extraction](https://github.com/raxitsoni-ai/nlp-recipes-key-entities-extract) | Culinary & Food Tech | NLP - NER | pandas, scikit-learn, sklearn-crfsuite, spaCy, NLTK, matplotlib, seaborn, joblib | Train a Named Entity Recognition (NER) model using Conditional Random Fields (CRF) to extract key entities (ingredients, quantities, and units) from raw recipe ingredient texts. |
 | [Cardiovascular Risk Prediction](https://github.com/raxitsoni-ai/model-selection-cardio-risk-prediction) | Healthcare & Diagnostics | ML - Model selection | pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn | Build an accurate machine learning model to predict cardiovascular disease (CVD) risk from patient health metrics. |
 | [Car Price Prediction](https://github.com/raxitsoni-ai/regularized-regression-car-price-prediction) | Automotive & Retail | ML - Regularization | pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn | Develop a robust regression model to predict used car prices for a reseller based on listed specifications while mitigating overfitting through advanced regularization techniques. |
