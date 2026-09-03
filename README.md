@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **raxitsoni-ai/raxitsoni-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Raxit 👋
+
+Solution & AI Architect — bringing enterprise platform design experience together with hands-on ML, deep learning, Generative AI, and MLOps.
+
+I design systems that need to scale and hold up in production — this portfolio is where I apply that same rigor to ML/DS work: not just notebooks, but pipelines, structure, and a path to deployment.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Type | Tech Stack | Description |
+|---|---|---|---|
+| [dl-tl-surface-defects-classification](#) | DL - Transfer Learning | TensorFlow, Keras, NumPy, matplotlib, Scikit-Learn | Automating steel surface inspection using transfer learning to reduce manual bottlenecks and reliably classify manufacturing defects across six categories. |
+| [nlp-recipes-key-entities-extract](#) | NLP - NER | pandas, scikit-learn, sklearn-crfsuite, spaCy, NLTK, matplotlib, seaborn, joblib | Train a Named Entity Recognition (NER) model using Conditional Random Fields (CRF) to extract key entities (ingredients, quantities, and units) from raw recipe ingredient texts. |
+| [model-selection-cardio-risk-prediction](#) | ML - Model selection | pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn | Build an accurate machine learning model to predict cardiovascular disease (CVD) risk from patient health metrics. |
+| [regularized-regression-car-price-prediction](#) | ML - Regularization | pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn | Develop a robust regression model to predict used car prices for a reseller based on listed specifications while mitigating overfitting through regularization techniques. |
+| [eda-etl-traffic-collision-analysis](#) | EDA & ETL | pyspark, pandas, numpy, matplotlib, Seaborn, AWS S3, Power BI | Extract data-driven insights from large-scale records to improve traffic management, and reduce accident rates. |
+
+---
+
+## 🧰 Core Skills
+
+* **ML / DL:** scikit-learn, PyTorch, Deep Learning fundamentals
+* **GenAI / LLMs:** LangChain, LangGraph, RAG architecture, MCP
+* **MLOps:** Git/DVC, MLflow, Docker, Kubernetes, GitHub Actions, FastAPI, Prometheus/Grafana
+* **Architecture & Cloud:** Azure (AKS, Azure ML, Service Bus), .NET 9, System Design
+
+---
+
+## 📂 How this portfolio is organized
+
+Each project repo follows a consistent structure:
+```
+notebooks/   → exploration and analysis
+src/         → reusable, production-style modules
+reports/     → written findings (PDF/DOCX)
+outputs/     → charts, artifacts
+README.md    → problem, approach, results, and production considerations
+```
+
+---
+
+## 📫 Connect
+**Email:** raxitsoni.ai@gmail.com <br/>
+**LinkedIn:** https://www.linkedin.com/in/raxit-s-781b6421/
