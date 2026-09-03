@@ -1,6 +1,6 @@
 # Hi, I'm Raxit 👋
 
-## About Me.
+## 👤 About Me.
 Solution & AI Architect — bringing enterprise platform design experience together with hands-on ML, deep learning, Generative AI, and MLOps.
 
 I design Software/AI systems that need to scale and hold up in production.
