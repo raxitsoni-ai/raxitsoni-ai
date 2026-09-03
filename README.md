@@ -26,11 +26,11 @@ I design systems that need to scale and hold up in production — this portfolio
 
 | Project | Type | Tech Stack | Description |
 |---|---|---|---|
-| [dl-tl-surface-defects-classification](#) | DL - Transfer Learning | TensorFlow, Keras, NumPy, matplotlib, Scikit-Learn | Automating steel surface inspection using transfer learning to reduce manual bottlenecks and reliably classify manufacturing defects across six categories. |
-| [nlp-recipes-key-entities-extract](#) | NLP - NER | pandas, scikit-learn, sklearn-crfsuite, spaCy, NLTK, matplotlib, seaborn, joblib | Train a Named Entity Recognition (NER) model using Conditional Random Fields (CRF) to extract key entities (ingredients, quantities, and units) from raw recipe ingredient texts. |
-| [model-selection-cardio-risk-prediction](#) | ML - Model selection | pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn | Build an accurate machine learning model to predict cardiovascular disease (CVD) risk from patient health metrics. |
-| [regularized-regression-car-price-prediction](#) | ML - Regularization | pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn | Develop a robust regression model to predict used car prices for a reseller based on listed specifications while mitigating overfitting through regularization techniques. |
-| [eda-etl-traffic-collision-analysis](#) | EDA & ETL | pyspark, pandas, numpy, matplotlib, Seaborn, AWS S3, Power BI | Extract data-driven insights from large-scale records to improve traffic management, and reduce accident rates. |
+| [dl-tl-surface-defects-classification](https://github.com/raxitsoni-ai/dl-tl-surface-defects-classification) | DL - Transfer Learning | TensorFlow, Keras, NumPy, matplotlib, Scikit-Learn | Automating steel surface inspection using transfer learning to reduce manual bottlenecks and reliably classify manufacturing defects across six categories. |
+| [nlp-recipes-key-entities-extract](https://github.com/raxitsoni-ai/nlp-recipes-key-entities-extract) | NLP - NER | pandas, scikit-learn, sklearn-crfsuite, spaCy, NLTK, matplotlib, seaborn, joblib | Train a Named Entity Recognition (NER) model using Conditional Random Fields (CRF) to extract key entities (ingredients, quantities, and units) from raw recipe ingredient texts. |
+| [model-selection-cardio-risk-prediction](https://github.com/raxitsoni-ai/model-selection-cardio-risk-prediction) | ML - Model selection | pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn | Build an accurate machine learning model to predict cardiovascular disease (CVD) risk from patient health metrics. |
+| [regularized-regression-car-price-prediction](https://github.com/raxitsoni-ai/regularized-regression-car-price-prediction) | ML - Regularization | pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn | Develop a robust regression model to predict used car prices for a reseller based on listed specifications while mitigating overfitting through regularization techniques. |
+| [eda-etl-traffic-collision-analysis](https://github.com/raxitsoni-ai/eda-etl-traffic-collision-analysis) | EDA & ETL | pyspark, pandas, numpy, matplotlib, Seaborn, AWS S3, Power BI | Extract data-driven insights from large-scale records to improve traffic management, and reduce accident rates. |
 
 ---
 
